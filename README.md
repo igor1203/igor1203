@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Igor Xavier 👋
 
-<!--
-**igor1203/igor1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About 
+I'm a Web Developer and I'm studyng web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+### Current Stack 
+- :rocket: Main language: 'Javascript' 
+- :package:Backend: 'NodeJS' 
+- 🧑‍💻Frontend: 'ReactJS', 'HTML5', 'CSS3', 'Javascript' 
+- :art:Layout Design: 'Figma' 
+- :card_file_box:Version Code Control: 'Git e GitHub' 
+- :hammer:Tools: 'VsCode', 'Markdown' 
+- :fire:I'm mostly active within the Rocketseat Community
+ 
+### Contacts
+-  📪Email: igorxavier96@gmail.com
+-  📘Linkedin: https://www.linkedin.com/in/igorxavier12/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
